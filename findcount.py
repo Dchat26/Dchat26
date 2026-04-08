@@ -2,7 +2,7 @@ import os
 
 # [설정]
 백준_경로 = "C:/doit/github/Baekjoon/백준"
-프로_경로 = "C:/doit/github/Programmers/프로그래머스/lv0"
+프로_경로 = "C:/doit/github/Programmers/프로그래머스"
 
 Fcount = 2         # 폴더 내 최소 파일 개수 기준
 Fpath = 프로_경로    # 현재 검사 대상

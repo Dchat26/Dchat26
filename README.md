@@ -13,6 +13,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Backend · Mobile**
 
@@ -31,7 +32,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 | --- | --- | --- |
-| [동적 QR 인증 시스템](#) | 공유 모빌리티 정적 QR의 캡처·재사용 위험을 막기 위해 QR을 주기적으로 갱신하는 인증 시스템<br>🏆 학술제 본선 장려상 | Android, Node.js, WebSocket |
+| [동적 QR 인증 시스템](https://github.com/Dchat26/dynamic-qr-auth) | 공유 모빌리티 정적 QR의 캡처·재사용을 막기 위해 30초마다 갱신되는 QR과 6자리 인증번호로 대여를 인증하는 시스템<br>대여 앱 · 모빌리티 단말 앱 · 관리 앱 · 인증 서버로 구성<br>🏆 학술제 본선 장려상 | Kotlin, Node.js, WebSocket |
 | IoT 온습도 모니터 | ESP32로 실내 온습도를 측정해 서버로 전송 | ESP32, DHT11, Node.js |
 | [3D 모델링](https://github.com/Dchat26/3D-Model) | 3D 프린터로 출력하기 위해 직접 모델링한 파일 | 3D 모델링 |
 

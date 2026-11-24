@@ -32,8 +32,8 @@
 
 | 프로젝트 | 설명 | 기술 |
 | --- | --- | --- |
-| [동적 QR 인증 시스템](https://github.com/Dchat26/dynamic-qr-auth) | 공유 모빌리티 정적 QR의 캡처·재사용을 막기 위해 30초마다 갱신되는 QR과 6자리 인증번호로 대여를 인증하는 시스템<br>대여 앱 · 모빌리티 단말 앱 · 관리 앱 · 인증 서버로 구성<br>🏆 학술제 본선 장려상 | Kotlin, Node.js, WebSocket |
-| [ESP32 스마트 룸 모니터](https://github.com/Dchat26/esp32-smart-room-monitor) 🚧 | 실내 온습도·조도·움직임을 측정해 OLED와 웹 대시보드에 실시간 표시<br>Wi-Fi로 릴레이·LED 원격 제어, 움직임 감지 시 경보<br>Wokwi 시뮬레이션 → 실물 보드 순서로 단계별 개발 중 | ESP32, C++(Arduino), I2C, Wi-Fi, WebSocket |
+| [동적 QR 인증 시스템 (팀 프로젝트)](https://github.com/Dchat26/dynamic-qr-auth) | 공유 모빌리티 정적 QR의 캡처·재사용을 막기 위해 30초마다 갱신되는 QR과 6자리 인증번호로 대여를 인증하는 시스템<br>대여 앱 · 모빌리티 단말 앱 · 관리 앱 · 인증 서버로 구성<br>🏆 학술제 본선 장려상 | Kotlin, Node.js, WebSocket |
+| [ESP32 스마트 룸 모니터 (개인 프로젝트)](https://github.com/Dchat26/esp32-smart-room-monitor) 🚧 | 실내 온습도·조도·움직임을 측정해 OLED와 웹 대시보드에 실시간 표시<br>Wi-Fi로 릴레이·LED 원격 제어, 움직임 감지 시 경보<br>Wokwi 시뮬레이션 → 실물 보드 순서로 단계별 개발 중 | ESP32, C++(Arduino), I2C, Wi-Fi, WebSocket |
 | [3D 모델링](https://github.com/Dchat26/3D-Model) | 3D 프린터로 출력하기 위해 직접 모델링한 파일 | 3D 모델링 |
 
 <br>
